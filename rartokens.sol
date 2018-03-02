@@ -180,3 +180,6 @@ contract RAZToken is RARTokens{
         decimals = 18;   
     }
 }
+
+
+
